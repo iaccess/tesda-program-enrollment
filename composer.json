@@ -11,12 +11,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "Enrollment\\Tesda": "src/"
+            "Enrollment\\Tesda\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "EnrollmentTest\\Tesda": "test/"
+            "EnrollmentTest\\Tesda\\": "test/"
         }
     },
     "require": {
