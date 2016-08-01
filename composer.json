@@ -22,7 +22,7 @@
     "require": {
         "php": "^7.0",
         "roave/security-advisories": "dev-master",
-        "academiae/enrollment-workflow": "dev-develop"
+        "academiae/enrollment-workflow": "^1.0 || ~0.1"
     },
     "require-dev": {
         "zendframework/zend-test": "^3.0.1",
